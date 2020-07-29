@@ -31,6 +31,8 @@ class WelcomeViewController: UIViewController {
 //
 //            titleIndex += 1
 //        }
+        
+        
     }
     
 
